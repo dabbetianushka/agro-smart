@@ -6,7 +6,7 @@ In agriculture, many farmers still depend on guesswork or traditional methods to
 Because of this, they often face low crop yield, higher farming costs, and damage caused by pests and diseases.
 There is a need for a simple and easy-to-use system that can guide farmers with basic recommendations
 ## System Architecture
-User enters details → Web interface processes the input → Logic provides prediction or recommendation → Result is displayed on the screen
+User enters details - Web interface processes the input - Logic provides recommendation - Result is displayed on the screen
 ## Tech Stack
 - HTML – for creating the structure of the website
 - CSS – for styling and layout
@@ -28,5 +28,13 @@ Prompts were used to understand UI design, logic flow, and documentation structu
 [script.js](https://github.com/user-attachments/files/24979728/script.js)
 [style.css](https://github.com/user-attachments/files/24979734/style.css)
 ## Final output
-
+https://dabbetianushka.github.io/agro-smart/
+## Build Reproducibility Instructions
+This project is a frontend-based web application and does not require any special software
+To run this project locally, follow the steps below:
+1. Clone the GitHub repository or download it as a ZIP file.
+2. Ensure that all project files (index.html, app.html, style.css, and script.js) are present in the same folder.
+3. Open the index.html file in any modern web browser such as Google Chrome, Edge, or Firefox.
+4. Click on the *Get Started* button to access the application features.
+5. Enter the required inputs to view crop yield prediction, fertilizer recommendation, and pesticide recommendation outputs.
 
